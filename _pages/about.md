@@ -15,7 +15,7 @@ I am very honored to join Teacher Yunzunli's visual analysis and safety research
 
 News
 ----
-04/2024 One paper[TS-Former](https://arxiv.org/abs/2404.13873)regarding Sequential Deepfake Detection has been uploaded to arxiv. The code will be released soon.
+04/2024 One paper [TS-Former](https://arxiv.org/abs/2404.13873) regarding Sequential Deepfake Detection has been uploaded to arxiv. The code will be released soon.
 
 
 
