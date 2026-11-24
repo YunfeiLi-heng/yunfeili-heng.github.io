@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div id="about-me"></div>
 
 
 
