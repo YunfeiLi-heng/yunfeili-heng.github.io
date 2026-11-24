@@ -2,7 +2,6 @@
 title: "DPL: Cross-Quality DeepFake Detection via Dual Progressive Learning"
 collection: publications
 permalink: /publication/2024-10-10-paper-title-number-2
-excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-10-10
 venue: 'ACCVV'
 paperurl: 'https://openaccess.thecvf.com/content/ACCV2024/papers/Zhang_DPL_Cross-quality_DeepFake_Detection_via_Dual_Progressive_Learning_ACCV_2024_paper.pdf'
