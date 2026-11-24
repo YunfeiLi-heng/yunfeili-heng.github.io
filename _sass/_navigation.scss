@@ -210,7 +210,12 @@
 
       &:first-child {
         font-weight: bold;
-
+              > span {
+          display: block;
+          margin: 0 1rem 0 0;
+          padding: 0.5rem 0;
+          color: $masthead-link-color;
+        }
         a {
           margin-left: 0;
         }
