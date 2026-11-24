@@ -9,9 +9,9 @@ redirect_from:
 
 
 
-I am a master's student at Ocean University of China. My research interests are DeepFake Detection, computer vision, and machine learning.
+I am currently pursuing the Ph.D. degree with the School of Cyberspace Science, Harbin Institute of Technology. My research interests are DeepFake Detection, computer vision, and machine learning.
 
-I am very honored to join Yunzunli's visual analysis and safety research group. You can find relevant information about our research group from [VAS](https://yuezunli.github.io/ligroup/index.html).
+I received the M.S. degree from the College of Computer Science and Technology, Ocean University of China, in 2025.
 
 News
 ----
